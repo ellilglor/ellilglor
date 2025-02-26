@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+  <defs>
+    <linearGradient id="bottomGradient" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#1279ef"/>  <!-- Blue -->
+      <stop offset="33%" stop-color="#2b92e2"/>  <!-- Light Blue -->
+      <stop offset="66%" stop-color="#2babd4"/>  <!-- Soft Blue -->
+      <stop offset="100%" stop-color="#0fc4c5"/>  <!-- Teal -->
+    </linearGradient>
+  </defs>
+  <path fill="url(#bottomGradient)" fill-opacity="1" d="M0,128L40,133.3C80,139,160,149,240,133.3C320,117,400,75,480,90.7C560,107,640,181,720,192C800,203,880,149,960,133.3C1040,117,1120,139,1200,138.7C1280,139,1360,117,1400,106.7L1440,96L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"/>
+</svg>
