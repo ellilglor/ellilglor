@@ -1,14 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-  <defs>
-    <linearGradient id="topGradient" x1="1" x2="0" y1="0" y2="0">
-      <stop offset="0%" stop-color="#1279ef"/>  <!-- Blue -->
-      <stop offset="33%" stop-color="#2b92e2"/>  <!-- Light Blue -->
-      <stop offset="66%" stop-color="#2babd4"/>  <!-- Soft Blue -->
-      <stop offset="100%" stop-color="#0fc4c5"/>  <!-- Teal -->
-    </linearGradient>
-  </defs>
-  <path fill="url(#topGradient)" fill-opacity="1" d="M0,96L30,96C60,96,120,96,180,101.3C240,107,300,117,360,117.3C420,117,480,107,540,133.3C600,160,660,224,720,256C780,288,840,288,900,240C960,192,1020,96,1080,80C1140,64,1200,128,1260,176C1320,224,1380,256,1410,272L1440,288L1440,0L1410,0C1380,0,1320,0,1260,0C1200,0,1140,0,1080,0C1020,0,960,0,900,0C840,0,780,0,720,0C660,0,600,0,540,0C480,0,420,0,360,0C300,0,240,0,180,0C120,0,60,0,30,0L0,0Z"/>
-</svg>
+<img src="top_banner.svg" alt="Top Banner" width="100%" />
 
 # Hey, I'm Thomas
 
@@ -113,15 +103,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellilglor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-  <defs>
-    <linearGradient id="bottomGradient" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%" stop-color="#1279ef"/>  <!-- Blue -->
-      <stop offset="33%" stop-color="#2b92e2"/>  <!-- Light Blue -->
-      <stop offset="66%" stop-color="#2babd4"/>  <!-- Soft Blue -->
-      <stop offset="100%" stop-color="#0fc4c5"/>  <!-- Teal -->
-    </linearGradient>
-  </defs>
-  <path fill="url(#bottomGradient)" fill-opacity="1" d="M0,128L40,133.3C80,139,160,149,240,133.3C320,117,400,75,480,90.7C560,107,640,181,720,192C800,203,880,149,960,133.3C1040,117,1120,139,1200,138.7C1280,139,1360,117,1400,106.7L1440,96L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"/>
-</svg>
-
+<img src="bottom_banner.svg" alt="Bottom Banner" width="100%" />
