@@ -2,11 +2,11 @@
 
 # Hey, I'm Thomas
 💻 A developer from Belgium trying to improve their skillset one day at a time.  
-🌎 Co-owner of the Kozma's Backpack project, a community tool designed to aid the Spiral Knights trading scene.  
+🌎 Owner of the Kozma's Backpack project, a community tool designed to aid the Spiral Knights trading scene.  
 🎮 Catching creatures & whiffing shots since 1999.  
 🐲 Fantasy & Comic enjoyer.
 
-###
+<br>
 
 # 💻 Tech Stack
 <div align="left">
@@ -65,7 +65,7 @@
 
 <br>
 
-# 🚀 Tools I have experience with
+# 🚀 Tools
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
     <img width="4" />
