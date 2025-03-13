@@ -1,6 +1,6 @@
 <img src="top_banner.svg" alt="Top Banner" width="100%" />
 
-# Hey, I'm Thomas
+# Hey, I'm Thomas👋
 💻 A developer from Belgium trying to improve their skillset one day at a time.  
 🌎 Owner of the Kozma's Backpack project, a community tool designed to aid the Spiral Knights trading scene.  
 🎮 Catching creatures & whiffing shots since 1999.  
